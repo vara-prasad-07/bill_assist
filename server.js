@@ -81,7 +81,7 @@ Avoid:
 - Making up data.
 - Giving advice unrelated to the provided budget context.
 - Repeating the same suggestions too often.
-
+text need to be plain it should not contain bold or external characters and make the response as small as posssible 
 Act only based on the provided user data. If the user asks something irrelevant to budget planning, politely respond that you can only help with financial planning.
 `;
 
